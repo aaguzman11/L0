@@ -1,0 +1,39 @@
+MacBook-Air-de-Alejandra:L0 aleji$ history
+    1  conda config --add channels http://conda.anaconda.org/gurobi
+    2  conda install gurobi
+    3  conda config --add channels http://conda.anaconda.org/gurobi
+    4   conda install gurobi
+    5  /anaconda3/bin/jupyter_mac.command ; exit;
+    6  git
+    7  ls
+    8  cd Desktop
+    9  git clone
+   10  git clone https://github.com/IIC2115/syllabus
+   11  git clone https://github.com/IIC2115/syllabus
+   12  git clone https://github.com/IIC2115/syllabus
+   13  git add
+   14  git add *
+   15  cd Syllabus/
+   16  ls
+   17  git add *
+   18  git commit
+   19  git commit -m "se sube el lab0"
+   20  git pull
+   21  cd Programación como herramientas
+   22  cd Documents
+   23  dc Documentos
+   24  cd Desktop
+   25  ls
+   26  cd Desktop
+   27  cd IIC2125
+   28  cd IIC2115
+   29  ls
+   30  cd L0
+   31  git push
+   32  git add *
+   33  git commit -m "Archivo Texto"
+   34  git push
+   35  cd Desktop
+   36  ls
+   37  git push
+   38  history
